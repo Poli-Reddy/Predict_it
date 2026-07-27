@@ -35,12 +35,3 @@ starter/features.py        audio loading, VAD, pitch, and spectral helpers
 starter/baseline.py        the heuristic to beat
 ```
 
-## Before you submit
-
-```bash
-python selfcheck.py
-```
-
-Then push to a **private** GitHub repo and add **`kamal-zetta`** as a
-collaborator. That invite is how we read your work — without it we cannot grade
-you.
