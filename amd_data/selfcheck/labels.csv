@@ -1,0 +1,9 @@
+call_id,audio_file,label,subtype
+amd_0041,audio/amd_0041.wav,human,human
+amd_0071,audio/amd_0071.wav,human,human
+amd_0125,audio/amd_0125.wav,human,human
+amd_0147,audio/amd_0147.wav,machine,voicemail
+amd_0189,audio/amd_0189.wav,human,human
+amd_0192,audio/amd_0192.wav,human,human
+amd_0203,audio/amd_0203.wav,human,human
+amd_0215,audio/amd_0215.wav,machine,voicemail

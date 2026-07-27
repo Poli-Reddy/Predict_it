@@ -1,0 +1,7 @@
+# The only libraries the assignment allows. Pinned so your run and our run match.
+numpy==2.4.6
+scipy==1.18.0
+soundfile==0.14.0
+scikit-learn==1.9.0
+pandas==3.0.5
+librosa==0.11.0
