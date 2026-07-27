@@ -23,12 +23,16 @@ beating.
 Zetta_AMD_Assignment.pdf   the assignment. Read it.
 amd_data/handout/          221 real call openings + labels.csv + DATA_NOTES.md
 amd_data/selfcheck/        8 calls for the pre-submission smoke test
-starter/features.py        audio loading, a VAD, pitch, spectral helpers
-starter/baseline.py        the heuristic to beat
-starter/predict.py         skeleton — copy to the root as predict.py
+predict.py                 final inference script for generating predictions
+predictions.csv            predictions for the handout set
 score.py                   the scorer. This is the metric.
 selfcheck.py               run before you submit
+RUNLOG.md                  iterative experiment history
+NOTES.md                   short summary of approach and limitations
+SUMMARY.html               self-contained summary page
 requirements.txt           exactly the libraries allowed, pinned to our grader
+starter/features.py        audio loading, VAD, pitch, and spectral helpers
+starter/baseline.py        the heuristic to beat
 ```
 
 ## Before you submit
